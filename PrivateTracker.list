@@ -1,13 +1,13 @@
 # 末日种子库
-DOMAIN,agsvpt.trackers.work
-DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,agsvpt.trackers.work
+DOMAIN-SUFFIX-SUFFIX,agsvpt.com
 
 # ICC
 DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,icc2022.xyz
 
 # 鲨鱼
-DOMAIN,tracker.sharkpt.net
+DOMAIN-SUFFIX,tracker.sharkpt.net
 
 # 皇后
 DOMAIN-SUFFIX,open.cd
@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,azusa.wiki
 DOMAIN-SUFFIX,greatposterwall.com
 
 # 朱雀
-DOMAIN,tracker.zhuque.in
+DOMAIN-SUFFIX,tracker.zhuque.in
 
 # 不可说
 DOMAIN-SUFFIX,springsunday.net
@@ -95,7 +95,7 @@ DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,hddolby.com
 
 # 飞天拉面
-DOMAIN,fsm-us.eu.org
+DOMAIN-SUFFIX,fsm-us.eu.org
 
 # 52PT
 DOMAIN-SUFFIX,52pt.site
@@ -146,7 +146,7 @@ DOMAIN-SUFFIX,xingtan.one
 DOMAIN-SUFFIX,tu88.men
 
 # 海豚
-DOMAIN,tracker.52dic.vip
+DOMAIN-SUFFIX,tracker.52dic.vip
 
 # HDFUN
 DOMAIN-SUFFIX,hdfun.me
@@ -191,13 +191,13 @@ DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hdchina.org
 
 # PT分享站
-DOMAIN,pt.itzmx.com
+DOMAIN-SUFFIX,pt.itzmx.com
 
 # 兽
-DOMAIN,pt.hd4fans.org
+DOMAIN-SUFFIX,pt.hd4fans.org
 
 # 学校
-DOMAIN,pt.btschool.club
+DOMAIN-SUFFIX,pt.btschool.club
 
 # TCCF
 DOMAIN-SUFFIX,et8.org
@@ -206,7 +206,7 @@ DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,srvfi.top
 
 # 普斯特
-DOMAIN,pt.hdpost.top
+DOMAIN-SUFFIX,pt.hdpost.top
 
 # 打胶
 DOMAIN-SUFFIX,dajiao.cyou
@@ -221,7 +221,7 @@ DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,rousi.zip
 
 # 药丸
-DOMAIN,pt.inswan.fun
+DOMAIN-SUFFIX,pt.inswan.fun
 
 # hdvbits
 DOMAIN-SUFFIX,hdvbits.com
