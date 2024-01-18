@@ -227,6 +227,12 @@ DOMAIN-SUFFIX,pt.inswan.fun
 # hdvbits
 DOMAIN-SUFFIX,hdvbits.com
 
+# PTTIME
+DOMAIN-SUFFIX,pttime.org
+
+
 # 未知
 DOMAIN-SUFFIX,creditracker.net
 DOMAIN-SUFFIX,czhch.com
+DOMAIN-SUFFIX,leniter.org
+DOMAIN-SUFFIX,gtk.pw
