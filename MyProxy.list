@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,composerize.com
 
 # docker
 DOMAIN-KEYWORD,docker
+
+# 飞天拉面
+DOMAIN-SUFFIX,fsm.name
