@@ -131,9 +131,6 @@ DOMAIN-SUFFIX,okpt.net
 # 蚂蚁
 DOMAIN-SUFFIX,hdmayi.com
 
-# iloli
-DOMAIN-SUFFIX,ilolicon.com
-
 # ULTRAHD
 DOMAIN-SUFFIX,ultrahd.net
 
@@ -154,6 +151,7 @@ DOMAIN-SUFFIX,hdfun.me
 
 # 駕瞑羅
 DOMAIN-SUFFIX,gamerapt.link
+DOMAIN-SUFFIX,gtk.pw
 
 # 阿童木
 DOMAIN-SUFFIX,hdatmos.club
@@ -209,8 +207,6 @@ DOMAIN-SUFFIX,srvfi.top
 # 普斯特
 DOMAIN-SUFFIX,pt.hdpost.top
 
-# 打胶
-DOMAIN-SUFFIX,dajiao.cyou
 
 # 熊猫
 DOMAIN-SUFFIX,pandapt.net
@@ -230,9 +226,7 @@ DOMAIN-SUFFIX,hdvbits.com
 # PTTIME
 DOMAIN-SUFFIX,pttime.org
 
-
 # 未知
 DOMAIN-SUFFIX,creditracker.net
 DOMAIN-SUFFIX,czhch.com
 DOMAIN-SUFFIX,leniter.org
-DOMAIN-SUFFIX,gtk.pw
