@@ -15,10 +15,10 @@ DOMAIN-SUFFIX,composerize.com
 DOMAIN-KEYWORD,docker
 
 # 飞天拉面
-DOMAIN-SUFFIX,fsm.name,no-resolve
+DOMAIN-SUFFIX,fsm.name
 
 # 打胶
-DOMAIN-SUFFIX,dajiao.cyou,no-resolve
+DOMAIN-SUFFIX,dajiao.cyou
 
 # iloli
-DOMAIN-SUFFIX,ilolicon.com,no-resolve
+DOMAIN-SUFFIX,ilolicon.com
