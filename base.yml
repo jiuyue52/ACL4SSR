@@ -74,7 +74,7 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
     - '*.lan'
-	- "+.local"
+    - "+.local"
     - localhost.ptlogin2.qq.com
   default-nameserver:
     - 223.5.5.5
