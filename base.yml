@@ -4,7 +4,7 @@ bind-address: "*"
 ipv6: false
 mode: rule
 log-level: info
-external-controller: 0.0.0.0:29090
+external-controller: 0.0.0.0:9090
 secret: "yuju520"
 dns:
   enable: true
