@@ -5,6 +5,7 @@ ipv6: false
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
+secret:""
 dns:
   enable: true
   prefer-h3: true
