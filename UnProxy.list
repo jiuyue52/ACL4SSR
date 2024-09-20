@@ -10,5 +10,8 @@ DOMAIN-SUFFIX,nodeseek.com
 # LinuxDo
 DOMAIN-SUFFIX,oaifree.com
 
-#企查查
+# 企查查
 DOMAIN-SUFFIX,qcc.com
+
+# 知犀
+DOMAIN-SUFFIX,zhixi.com
