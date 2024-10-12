@@ -56,11 +56,10 @@ dns:
     - https://223.6.6.6/dns-query
     'geosite:geolocation-!cn':
     - https://1.1.1.1/dns-query
+    - https://1.0.0.1/dns-query
   nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-#    - https://1.1.1.1/dns-query
-#    - https://1.0.0.1/dns-query
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
