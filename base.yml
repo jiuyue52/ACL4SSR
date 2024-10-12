@@ -15,8 +15,6 @@ unified-delay: true
 tcp-concurrent: true
 authentication:
   - "yuju:yuju520"
-experimental:
-  sniff-tls-sni: true
 geodata-mode: true
 geodata-loader: standard
 geo-auto-update: true
