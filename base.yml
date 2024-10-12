@@ -79,3 +79,13 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
+tun:
+  enable: true
+  stack: system
+  device: mihomo
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+  auto-route: true
+  auto-detect-interface: true
+  strict-route: true
