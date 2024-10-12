@@ -24,7 +24,7 @@ dns:
   prefer-h3: true
   use-hosts: true
   use-system-hosts: true
-  respect-rules: false
+  respect-rules: true
   listen: 0.0.0.0:1053
   ipv6: false
   enhanced-mode: fake-ip
@@ -33,6 +33,8 @@ dns:
     - '*.lan'
     - "+.local"
     - localhost.ptlogin2.qq.com
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
   default-nameserver:
     - tls://1.12.12.12
     - 223.5.5.5
@@ -53,7 +55,7 @@ dns:
     - https://doh.pub/dns-query
   fallback:
     - tls://1dot1dot1dot1.cloudflare-dns.com
-    - https://1.0.0.1/dns-query
+    - tls://8.8.4.4
     - https://1.1.1.1/dns-query
   fallback-filter:
     geoip: true
