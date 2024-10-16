@@ -59,7 +59,6 @@ dns:
     - tls://8.8.4.4
     - https://1.1.1.1/dns-query
   nameserver:
-    - system
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
   proxy-server-nameserver:
